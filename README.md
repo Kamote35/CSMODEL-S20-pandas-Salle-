@@ -1,0 +1,2 @@
+# CSMODEL-S20-pandas-Salle-
+Dataset: https://www.kaggle.com/datasets/ak0212/eye-cancer-patient-records?fbclid=IwY2xjawKubX5leHRuA2FlbQIxMABicmlkETFDY2NGWUszdVltd3pPYlFhAR6gJh716FUFAXAV2M3b5zuQSJQDi93g8K8r5FnSXsLiXago26LT7I1bsk2keg_aem_kwsYNm4mST9tyDbhGHWX7Q
